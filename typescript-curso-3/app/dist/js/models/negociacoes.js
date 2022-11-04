@@ -16,3 +16,4 @@ export class Negociacoes {
     }
     ;
 }
+//# sourceMappingURL=negociacoes.js.map
